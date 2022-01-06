@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UserInterfaceLookAndFeel</string>
+    <string name="imageButton">Image Button</string>
+    <string name="checkButton">CheckBox</string>
+    <string name="checkBoxMale">Male</string>
+    <string name="checkBoxFemale">Female</string>
+    <String name="autoSize">hey</String>
+    <string name="checkBOxOther">Other</string>
+    <string name="toggleButton1">ToggleButton 1</string>
+    <string name="toggleButton2">ToggleButton 2</string>
+    <string name="toggleButton3">ToggleButton 3</string>
+    <string-array name="spinner">
+        <item></item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string name="timePicker">Time</string>
+    <string name="datePicker">Date</string>
+    <string name="tooltips">Click me for Toast</string>
+    <string name="description">FloatingActionButton for toast</string>
+
+</resources>
